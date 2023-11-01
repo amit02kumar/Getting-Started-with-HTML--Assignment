@@ -1,0 +1,4 @@
+HTML Comments are the non-rendering text that provide the information to the programmer or human readers. 
+HTML Comments are only used for the documentation purpose so that if a new programmer or user read it, it can understand easily by the programmer or the user.
+These are helpful in making notes, or disabling some part of code without deleting it from the code.
+Comments are ignored by the Browser and does't affect the rendring of the webpage.
